@@ -1,0 +1,51 @@
+Privacy Policy
+
+Last Updated: 22 Feb 2025
+
+Scuba Club Assistant operates the Scuba Club Assistant mobile application (the "App"). 
+This Privacy Policy describes how we collect, use, and protect user data when you use our App.
+
+1. Information We Collect
+
+We may collect the following types of information when you use our App:
+Personal Information: When you create an account or log in, we may collect your name, email address, and other identifiers.
+
+Usage Data: We collect information about how you interact with our App, such as usage patterns and device information.
+Firebase Data: Our App uses Firebase Authentication, Firestore, and/or Firebase Analytics, 
+which may collect user data for authentication and analytics purposes.
+
+2. How We Use Your Information
+
+We use the collected data to:
+Provide, maintain, and improve our App.
+Authenticate users and manage accounts.
+Analyse usage trends to enhance user experience.
+Communicate updates, security notices, and support messages.
+
+3. Data Sharing and Disclosure
+
+We do not sell or rent your personal information. However, we may share data with:
+Third-Party Services: We use Firebase, which may process your data in accordance with Google's Privacy Policy.
+Legal Compliance: We may disclose data if required by law or to protect our legal rights.
+
+4. Data Security
+
+We implement reasonable security measures to protect your information. However, 
+no method of transmission over the internet is completely secure, and we cannot guarantee absolute security.
+
+5. User Rights
+
+You have the right to:
+Access, update, or delete your account information.
+Opt-out of analytics tracking (if applicable).
+Request information about how we handle your data.
+
+6. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of significant changes 
+by updating the "Last Updated" date at the top of this page.
+
+7. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at: scuba.club.assistant.help@gmail.com
+
